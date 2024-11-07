@@ -10,7 +10,7 @@ const divStyle={
 }
 return(
   <>
-  <h1 style={nameStyle}>わんこ３連ガチャ</h1>
+  <h1 style={nameStyle}>🐶わんこ３連ガチャ🐶</h1>
   <div style={divStyle}>
   <DogImg />
   <DogImg />

@@ -47,7 +47,7 @@ export const DogImg = () => {
 
       <img src={dogImg} alt='わんこ' style={imgStyle}/>
       <br />
-      <button onClick={onClickButton}>もっと🐶</button>
+      <button onClick={onClickButton}>🐕もう一度🐕</button>
     </div>
      
     </>
